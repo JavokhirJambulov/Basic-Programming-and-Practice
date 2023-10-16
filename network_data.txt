@@ -1,0 +1,10 @@
+router - {'IP Address': '1', 'MAC Address': '1'}
+wifi - {'IP Address': '2', 'MAC Address': '2'}
+wifi2 - {'IP Address': '3', 'MAC Address': '3'}
+wifi3 - {'IP Address': '4', 'MAC Address': '4'}
+pc1 - {'IP Address': '11', 'MAC Address': '11'}
+pc2 - {'IP Address': '22', 'MAC Address': '22'}
+pc3 - {'IP Address': '33', 'MAC Address': '33'}
+4 - {'IP Address': '44', 'MAC Address': '55'}
+pc5 - {'IP Address': '4445', 'MAC Address': '555'}
+laptop - {'IP Address': '171.99.0.1', 'MAC Address': '11111'}
